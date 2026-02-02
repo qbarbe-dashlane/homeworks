@@ -1,4 +1,4 @@
-# BABYSEALSMURDER-example-app
+# homeworks
 
 - git init the project
 - make a simple npm project
